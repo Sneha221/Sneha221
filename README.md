@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Sneha Banerjee 👋</h1>
 <p align="center">
 Applied AI/ML Practitioner & Security Researcher — building and securing intelligent systems.
 </p>

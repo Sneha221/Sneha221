@@ -111,10 +111,6 @@ AWS Solutions Architect (Associate) • Azure Red Team Professional • GIAC GCI
 
 ---
 
-## Let’s connect
-
-- 💬 Ask me about AI/ML in finance, fraud prevention, risk scoring, and claims automation  
-- 📫 Reach me: **you@email.com** | **LinkedIn/your-handle** | **X: @your-handle**
 
 ---
 

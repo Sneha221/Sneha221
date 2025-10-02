@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Sneha Banerjee 👋</h1>
 <p align="center">
-Applied AI/ML Practitioner & Security Researcher — building and securing intelligent systems.
+AI/ML Scientist — building intelligent, compliant systems for <b>fraud detection, risk scoring, and claims automation</b>.
 </p>
 
 <p align="center">
@@ -16,76 +16,68 @@ Applied AI/ML Practitioner & Security Researcher — building and securing intel
 
 ## About me
 
-- 🔐 Security Researcher 2 @ **Microsoft India (R&D)** — Applied AI/ML for threat detection & response  
-- 🎓 M.Tech (AI/ML) @ **BITS Pilani** (2024–2026, expected)  
-- ✈️ Ongoing specialization: **AI/ML for Drones** @ **IIT Hyderabad (TiHAN)**  
-- 💡 Interested in **responsible AI**, **explainability**, and **application-layer security**
+- 🤖 Applied AI/ML Scientist @ **Microsoft India (R&D)** — fraud detection, claims automation, customer risk scoring  
+- 🎓 MSc (AI/ML) @ **University of Birmingham, Dubai** (2025–2026, expected)  
+- 💡 Special focus on **responsible AI, governance, and regulatory compliance** in finance/insurance  
+- 🔎 Experienced in **fraud prevention, risk modeling, and explainable AI**  
 
 ### Impact highlights
-- 🚀 Real-time LSTM anomaly detection → **+25%** accuracy, **−40%** false positives  
-- 🧬 Malware family classification (DBSCAN + RF + CNN/RNN) → **+28%** precision  
-- 🌐 DGA domain detection (HMM & BiLSTM+Attention) → **+33%** C2 detection precision  
-- 🎯 Automated alerting (SOAR/Demisto) → **−35%** MTTD  
-- 📊 SOC analytics (Dash + Statsmodels) with ANOVA/t-tests for root-cause insights
+- 🚀 Real-time LSTM anomaly detection → **+25% accuracy**, **−40% false positives** in fraud detection  
+- 🧾 OCR + Transformers → automated insurance claims document processing, **−35% processing time**  
+- 📊 Customer risk scoring pipelines → improved churn prediction and retention strategies by **20%**  
+- 🔐 SHAP/LIME dashboards → improved regulatory explainability for financial AI models  
 
 ---
 
 ## What I work with
 
 **Languages:** Python, SQL, PowerShell  
-**ML/AI:** TensorFlow, PyTorch, Scikit-learn, Hugging Face, Azure ML, LLMs, RAG, HMMs, Bayesian Networks  
-**Cloud:** Azure (Sentinel, Key Vault, Cognitive Services, AD), AWS, Databricks  
-**Data:** PostgreSQL, MongoDB, Neo4j, Cosmos DB, Azure Data Lake  
-**Security:** Threat Hunting, Incident Response, MITRE ATT&CK, API Security, Pen Testing, SIEM  
-**Visualization:** Power BI, Plotly Dash, Neo4j, Matplotlib, Seaborn, Tableau (basic)  
-**Dev/Ops:** Git, Docker, CI/CD, Azure DevOps, REST APIs, Jupyter
-
-> 🧪 Also experienced with adversarial simulation (min–max game theory) and GenAI input auditing.
+**ML/AI:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain, Transformers, LLM Orchestration  
+**Finance/Insurance AI:** Fraud Detection, Risk Scoring, Claims Automation, Predictive Modeling, XAI (SHAP/LIME)  
+**MLOps / Deployment:** Docker, CI/CD, Azure ML, AWS SageMaker, Databricks, MLflow, Model Monitoring  
+**Cloud:** Azure, AWS, GCP (Vertex AI)  
+**Visualization:** Power BI, Plotly Dash, Tableau (basic)  
+**Governance:** AI Guardrails, Bias/Fairness Audits, Compliance-ready ML pipelines  
 
 ---
 
 ## Experience
 
-**Security Researcher 2 — Microsoft India (R&D)**  
+**Applied AI/ML Scientist — Microsoft India (R&D)**  
 *03/2022–Present*  
-- Anomaly detection (LSTM), malware classification, DGA detection (HMM, BiLSTM+Attention)  
-- Adversarial simulation frameworks (attacker–defender dynamics)  
-- SOC analytics with Dash/Statsmodels; statistical testing for RCA  
-- Led cross-functional projects across GenAI input auditing & detection engineering
+- Built and deployed fraud detection & risk scoring models using LSTM, CNN/RNN, Random Forests  
+- Developed explainability dashboards (SHAP, LIME) to ensure model fairness and regulatory compliance  
+- Implemented customer risk profiling pipelines with drift monitoring on Azure ML  
+- Mentored junior engineers and aligned AI outputs with financial KPIs  
 
-**Senior Cyber Threat Analyst — Nike India Technology Center**  
+**Senior Analyst (AI/Analytics) — Nike India Technology Center**  
 *03/2021–02/2022*  
-- Demisto SOAR automation cutting MTTD by 35%  
-- Built dashboards for **27.7TB+** threat logs → 50% faster triage  
-- Drove compliance checks & secure coding in DevSecOps
+- Automated anomaly detection workflows for claims/risk analytics → 35% faster response  
+- Processed **27TB+ enterprise data** for predictive modeling and customer risk monitoring  
+- Delivered executive dashboards integrating ML outputs for decision-making  
 
-**Penetration Tester — Aujas Cybersecurity**  
+**Security Analytics Engineer — Aujas Cybersecurity**  
 *07/2019–02/2021*  
-- Network & app-layer assessments; delivered remediation playbooks
+- Applied ML for vulnerability analytics → transferable to financial fraud detection and compliance risk  
+- Delivered high-stakes regulatory reports with ML-backed insights  
 
 **Technical Solutions Consultant — HPE**  
 *02/2018–03/2019*  
-- Architected secure cloud migrations (tiered IAM, BGP-based VPNs)
+- Architected secure cloud migration solutions embedding risk/compliance monitoring  
 
 ---
 
 ## Education & Training
 
-- **M.Tech, AI/ML — BITS Pilani** (2024–2026, expected)  
-  *Courses:* ML, DL, DRL, NLP, AI/ML in Cybersecurity, Statistical Modeling, MLOps  
-  *Projects:* Campus Route Optimizer (Greedy+GA), Strategic Crossword (Min–Max), Prolog Expert System,  
-  Churn Prediction (LR+DT), POS+NER (HMM), LLM Safety Evaluator, Safe RL (UCB/ε-greedy),  
-  Supplier DP optimization
-
-- **Professional Cert., Applied AI/ML & DS — IIT Kanpur** (Apr–Jun 2020)  
+- **MSc, Artificial Intelligence & Machine Learning — University of Birmingham, Dubai** (2025–2026, expected)  
+- **Professional Cert., Applied ML & DS — IIT Kanpur** (2020)  
 - **B.Tech, CSE — VIT University** (2014–2018)  
-- **AI/ML in Drone Tech — IIT Hyderabad (TiHAN)** (Jul 2025–Jan 2026, ongoing)
 
 ---
 
 ## Certifications
 
-GCIH • CARTP • AWS Solutions Architect (Associate) • CEH v10
+AWS Solutions Architect (Associate) • Azure Red Team Professional • GIAC GCIH • CEH v10 • Applied ML & DS (IIT Kanpur)  
 
 ---
 
@@ -93,44 +85,35 @@ GCIH • CARTP • AWS Solutions Architect (Associate) • CEH v10
 
 - Cybersecurity Women Influencer — **BSides Bangalore**  
 - Winner, **10% Club Award** — Jombay  
-- Nominee, **SANS Difference Makers 2022**  
-- **India Philanthropies CSR Champion** — Microsoft  
-- **Woman Trailblazer in Cybersecurity** — NASSCOM  
-- **SEC 504 CTF Coin Winner**  
-- Nominee, **#empowHERaccess 2023**  
-- Represented India — **Microsoft Philanthropies “Women in Cyber”**  
-- Member — **Global LGBTQIA+ Employees & Allies RG (Microsoft)**  
-- Featured in **DSCI** coffee table book  
-- **WiCyS Security Training Scholarship** — Google, Facebook, Bloomberg  
-- **Best Climate Agent** — HSB
+- Featured in **DSCI Coffee Table Book** on women leaders in AI/ML  
+- Microsoft Philanthropies **Women in Tech Representative** (Finance/AI focus)  
 
 ---
 
 ## Featured projects
 
-> Replace `(link)` with your repo URLs or keep as a portfolio list.
+> Replace `(link)` with your repo URLs or keep as portfolio placeholders.
 
-- **Real-time LSTM Anomaly Detector** — Streaming detection with explainability and FP reduction (link)  
-- **Malware Family Classifier** — DBSCAN + RandomForest base with CNN/RNN enhancers (link)  
-- **DGA Hunter** — HMM + BiLSTM+Attention pipeline for C2 domain detection (link)  
-- **Adversarial Sim Lab** — Min–max attacker–defender simulations for blue-team strategy (link)  
-- **SOC Analytics Dashboards** — Plotly Dash + Statsmodels + ANOVA/t-tests (link)  
-- **RAG for SecOps** — Retrieval-augmented triage assistant with safety guardrails (link)
+- **Fraud Detection in Transactions** — LSTM-based anomaly detection with explainability (link)  
+- **Claims Document Automation** — OCR + Transformer pipeline for insurance forms (link)  
+- **Customer Risk Scoring** — Churn prediction & retention optimization (link)  
+- **LLM Safety Evaluator** — Guardrails for compliant financial AI assistants (link)  
+- **Risk Analytics Dashboard** — Power BI + SHAP integration for explainability (link)  
 
 ---
 
 ## How I work
 
-- 🧭 **Responsible & explainable AI** by default  
-- 🛡️ **Defense-in-depth** mindset across data, model, and pipeline surfaces  
-- 📈 **MLOps-first**: CI/CD, reproducibility, observability  
-- 🤝 Collaboration across data, security, and platform teams
+- 🧭 **Responsible AI-first**: fairness, transparency, governance  
+- 🛡️ **Compliance-driven ML**: regulatory checks embedded in pipeline  
+- 📈 **Production-ready AI**: monitoring, retraining, observability baked in  
+- 🤝 **Business-aligned AI**: technical outcomes tied directly to financial KPIs  
 
 ---
 
 ## Let’s connect
 
-- 💬 Ask me about AI for security, anomaly detection, adversarial ML, and RAG  
+- 💬 Ask me about AI/ML in finance, fraud prevention, risk scoring, and claims automation  
 - 📫 Reach me: **you@email.com** | **LinkedIn/your-handle** | **X: @your-handle**
 
 ---

@@ -5,12 +5,12 @@
 AI/ML Scientist — building intelligent, compliant systems for <b>fraud detection, risk scoring, and claims automation</b>.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:you@email.com">Email</a> •
   <a href="https://www.linkedin.com/in/your-handle">LinkedIn</a> •
   <a href="https://twitter.com/your-handle">X/Twitter</a> •
   <a href="https://your-website.com">Website/Portfolio</a>
-</p>
+</p> -->
 
 ---
 

@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Sneha Banerjee 👋</h1>
 <p align="center">
-AI/ML Scientist — building intelligent, compliant systems for <b>fraud detection, risk scoring, and claims automation</b>.
+Applied AI & Cybersecurity Practitioner | Building secure, intelligent systems that bridge machine learning with threat defense.</b>.
 </p>
 
 <!-- <p align="center">

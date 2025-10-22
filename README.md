@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi, I'm Sneha Banerjee 👋</h1>
+<h1 align="center">Hi, I'm Sneha Banerjee </h1>
 <p align="center">
 Applied AI & Cybersecurity Practitioner | Building secure, intelligent systems that bridge machine learning with threat defense.</b>.
 </p>

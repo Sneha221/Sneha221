@@ -66,7 +66,7 @@ Applied AI & Cybersecurity Practitioner | Building secure, intelligent systems t
 
 ## Education & Training
 
-- **MSc, Artificial Intelligence & Machine Learning — University of Birmingham, Dubai** (2025–2026, expected)  
+- **MSc, Artificial Intelligence & Machine Learning — BITS Pilani
 - **Professional Cert., Applied ML & DS — IIT Kanpur** (2020)  
 - **B.Tech, CSE — VIT University** (2014–2018)  
 

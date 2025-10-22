@@ -16,10 +16,7 @@ Applied AI & Cybersecurity Practitioner | Building secure, intelligent systems t
 
 ## About me
 
-- 🤖 Applied AI/ML Scientist @ **Microsoft India (R&D)** — fraud detection, claims automation, customer risk scoring  
-- 🎓 MSc (AI/ML) @ **University of Birmingham, Dubai** (2025–2026, expected)  
-- 💡 Special focus on **responsible AI, governance, and regulatory compliance** in finance/insurance  
-- 🔎 Experienced in **fraud prevention, risk modeling, and explainable AI**  
+- 🤖 Cyber Hunt Analyst 2@ **Microsoft India (R&D)** — fraud detection, claims automation, customer risk scoring   
 
 ### Impact highlights
 - 🚀 Real-time LSTM anomaly detection → **+25% accuracy**, **−40% false positives** in fraud detection  

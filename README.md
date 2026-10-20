@@ -1,125 +1,149 @@
-<!-- Profile README -->
+# Hi, I'm Sneha Banerjee 👋
 
-<h1 align="center">Hi, I'm Sneha Banerjee </h1>
-<p align="center">
-Applied AI & Cybersecurity Practitioner | Building secure, intelligent systems that bridge machine learning with threat defense.</b>.
-</p>
+**Generative AI Lead | AI Security Practitioner | Exploring Technical AI Safety**
 
-<!-- <p align="center">
-  <a href="mailto:you@email.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-handle">LinkedIn</a> •
-  <a href="https://twitter.com/your-handle">X/Twitter</a> •
-  <a href="https://your-website.com">Website/Portfolio</a>
-</p> -->
+I build and evaluate AI systems with a focus on reliability, security, and controlled behavior. My background spans cybersecurity, threat hunting, machine learning, and enterprise-scale Generative AI.
+
+I'm particularly interested in **AI Control, AI verification, adversarial evaluation, prompt-injection resistance, and security boundaries for tool-using agents**.
 
 ---
 
-## About me
+## 🔬 Current Focus
 
-- 🤖 Cyber Hunt Analyst 2@ **Microsoft India (R&D)** — fraud detection, claims automation, customer risk scoring   
+- 🛡️ **AI Control & Agent Security** — Exploring how to keep tool-using AI agents within defined security and authorization boundaries.
+- 🧪 **AI Safety Evaluations** — Building reproducible experiments to investigate model behavior under adversarial instructions.
+- 🔍 **LLM & RAG Security** — Interested in prompt injection, retrieval security, agent authorization, and adversarial testing.
+- ⚙️ **Efficient AI Systems** — Evaluating foundation models and optimizing inference cost, latency, and quality.
+- 📚 **Technical AI Safety Research** — Developing practical research projects and strengthening my foundations in AI safety.
 
-### Impact highlights
-- 🚀 Real-time LSTM anomaly detection → **+25% accuracy**, **−40% false positives** in fraud detection  
-- 🧾 OCR + Transformers → automated insurance claims document processing, **−35% processing time**  
-- 📊 Customer risk scoring pipelines → improved churn prediction and retention strategies by **20%**  
-- 🔐 SHAP/LIME dashboards → improved regulatory explainability for financial AI models  
+## 🚀 Featured Project
 
----
+### [Evaluating Prompt-Injection Resilience in Tool-Using Agents](https://github.com/YOUR_USERNAME/inspect-agent-control-evaluation)
 
-## What I work with
+*Python · Inspect AI · LLM Evaluation · AI Control*
 
-**Languages:** Python, SQL, PowerShell  
-**ML/AI:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain, Transformers, LLM Orchestration  
-**Finance/Insurance AI:** Fraud Detection, Risk Scoring, Claims Automation, Predictive Modeling, XAI (SHAP/LIME)  
-**MLOps / Deployment:** Docker, CI/CD, Azure ML, AWS SageMaker, Databricks, MLflow, Model Monitoring  
-**Cloud:** Azure, AWS, GCP (Vertex AI)  
-**Visualization:** Power BI, Plotly Dash, Tableau (basic)  
-**Governance:** AI Guardrails, Bias/Fairness Audits, Compliance-ready ML pipelines  
+An exploratory evaluation of how a tool-using language model responds to adversarial instructions embedded in an untrusted incident report.
 
----
+- Implemented five attack variants: direct, authority-based, urgency, roleplay, and indirect instructions.
+- Built a simulated sensitive-action tool and configurable authorization guard.
+- Implemented a custom scorer to evaluate simulated action-execution outcomes.
+- Compared preliminary guarded and unguarded evaluation results.
+- Investigating the security–usefulness trade-off, including unauthorized tool attempts, legitimate task completion, and false blocking.
 
-## Experience
+**Research caveat:** The current guard blocks all simulated exports when enabled. The initial results therefore do not establish general prompt-injection resistance or demonstrate that legitimate actions remain usable.
 
-**Applied AI/ML Scientist — Microsoft India (R&D)**  
-*03/2022–Present*  
-- Built and deployed fraud detection & risk scoring models using LSTM, CNN/RNN, Random Forests  
-- Developed explainability dashboards (SHAP, LIME) to ensure model fairness and regulatory compliance  
-- Implemented customer risk profiling pipelines with drift monitoring on Azure ML  
-- Mentored junior engineers and aligned AI outputs with financial KPIs  
-
-**Senior Analyst (AI/Analytics) — Nike India Technology Center**  
-*03/2021–02/2022*  
-- Automated anomaly detection workflows for claims/risk analytics → 35% faster response  
-- Processed **27TB+ enterprise data** for predictive modeling and customer risk monitoring  
-- Delivered executive dashboards integrating ML outputs for decision-making  
-
-**Security Analytics Engineer — Aujas Cybersecurity**  
-*07/2019–02/2021*  
-- Applied ML for vulnerability analytics → transferable to financial fraud detection and compliance risk  
-- Delivered high-stakes regulatory reports with ML-backed insights  
-
-**Technical Solutions Consultant — HPE**  
-*02/2018–03/2019*  
-- Architected secure cloud migration solutions embedding risk/compliance monitoring  
+*Status: Research prototype; further validation and experiments in progress.*
 
 ---
 
-## Education & Training
+## 💼 Professional Experience
 
-- **MSc, Artificial Intelligence & Machine Learning — BITS Pilani
-- **Professional Cert., Applied ML & DS — IIT Kanpur** (2020)  
-- **B.Tech, CSE — VIT University** (2014–2018)  
+### Senior Consultant – Generative AI Lead | Infosys
 
----
+*Current role*
 
-## Certifications
+- Architect enterprise-scale Generative AI, agentic AI, and retrieval-augmented generation (RAG) solutions for business-critical workflows.
+- Evaluate and benchmark foundation models across quality, latency, cost, safety, and scalability.
+- Explore hybrid retrieval approaches, including vector search, vectorless RAG, ontology-driven retrieval, and knowledge graphs.
+- Optimize LLM inference costs through prompt engineering, prompt caching, model routing, and batch processing.
+- Develop automated evaluation and observability pipelines, including LLM-as-a-Judge approaches.
+- Work across Azure OpenAI, Azure AI Foundry, Amazon Bedrock, and SageMaker.
+- Lead AI research and development initiatives, prototype emerging approaches, and communicate technical findings to stakeholders.
 
-AWS Solutions Architect (Associate) • Azure Red Team Professional • GIAC GCIH • CEH v10 • Applied ML & DS (IIT Kanpur)  
+### Cyber Hunt Analyst 2 | Microsoft India R&D
 
----
+- Conducted security investigations and threat-hunting activities across enterprise identity and collaboration environments.
+- Investigated a German email-access incident involving more than 1,000 SharePoint documents and 60 PowerShell scripts.
+- Supported investigations involving privileged identities, MFA, OAuth, and Conditional Access changes.
+- Contributed to incident-response and threat-hunting workflows, including Midnight Blizzard-related investigations.
 
-## Selected recognition
+### Senior Cyber Threat Data Analyst | Nike
 
-- Cybersecurity Women Influencer — **BSides Bangalore**  
-- Winner, **10% Club Award** — Jombay  
-- Featured in **DSCI Coffee Table Book** on women leaders in AI/ML  
-- Microsoft Philanthropies **Women in Tech Representative** (Finance/AI focus)  
+- Worked with large-scale enterprise security data, including 27.7 TB of S3 data.
+- Developed security analytics and dashboards to support threat investigation and operational decision-making.
+- Worked with security automation and containerized workflows.
 
----
+### Penetration Tester | Aujas Cybersecurity
 
-## Featured projects
+- Performed penetration testing and security assessment activities.
+- Developed security analytics workflows and dashboards to support vulnerability investigation and remediation.
 
-> Replace `(link)` with your repo URLs or keep as portfolio placeholders.
+### Technical Solutions Consultant | Hewlett Packard Enterprise
 
-- **Fraud Detection in Transactions** — LSTM-based anomaly detection with explainability (link)  
-- **Claims Document Automation** — OCR + Transformer pipeline for insurance forms (link)  
-- **Customer Risk Scoring** — Churn prediction & retention optimization (link)  
-- **LLM Safety Evaluator** — Guardrails for compliant financial AI assistants (link)  
-- **Risk Analytics Dashboard** — Power BI + SHAP integration for explainability (link)  
-
----
-
-## How I work
-
-- 🧭 **Responsible AI-first**: fairness, transparency, governance  
-- 🛡️ **Compliance-driven ML**: regulatory checks embedded in pipeline  
-- 📈 **Production-ready AI**: monitoring, retraining, observability baked in  
-- 🤝 **Business-aligned AI**: technical outcomes tied directly to financial KPIs  
+- Supported technical solutions and enterprise customer environments.
 
 ---
 
+## 🧰 Technical Toolkit
+
+**Generative AI & LLMs**
+- Foundation-model evaluation and benchmarking
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI and tool use
+- Prompt engineering, caching, and model routing
+- LLM evaluation and observability
+
+**AI Security & Safety**
+- Prompt injection and adversarial testing
+- Tool authorization and agent security
+- AI Control and safety evaluations
+- Threat modeling and security assessment
+- AI governance and evaluation design
+
+**Machine Learning**
+- Deep learning and transformer architectures
+- PyTorch and Hugging Face
+- Model evaluation and experimentation
+- Python-based data analysis
+
+**Cloud & Engineering**
+- Azure OpenAI and Azure AI Foundry
+- Amazon Bedrock and SageMaker
+- Docker and CI/CD
+- Security analytics and automation
+- Python, SQL, and PowerShell
+
+**Evaluation & Research Tools**
+- Inspect AI
+- Ollama
+- Custom evaluation harnesses and scoring logic
 
 ---
 
-<!-- Optional: GitHub stats (uncomment and set your username) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact" alt="Top Languages" />
-</p>
--->
+## 🎓 Education
+
+- **M.Tech in Artificial Intelligence and Machine Learning** — BITS Pilani, Work Integrated Learning Programme
+- **Applied AI/ML for Autonomous Navigation** — TiHAN, IIT Hyderabad
+- **Applied Machine Learning and Data Science** — IIT Kanpur
+- **B.Tech in Computer Science and Engineering** — VIT University
+
+---
+
+## 🏅 Certifications
+
+- GIAC Certified Incident Handler (GCIH)
+- Certified Ethical Hacker (CEH v10)
+- Certified Azure Red Team Professional (CARTP)
+- AWS Certified Solutions Architect – Associate
+
+---
+
+## 🔭 Research Interests
+
+- **AI Control:** How can we constrain AI systems to prevent unsafe actions while retaining useful capabilities?
+- **AI Verification:** How can we obtain stronger evidence that AI systems satisfy specified behavioral and security requirements?
+- **Agent Security:** How can authorization boundaries protect tools and resources from adversarial instructions?
+- **Adversarial Evaluation:** How should we measure robustness against prompt injection and other attacks?
+- **Evaluation Reliability:** How can experiments produce reproducible, decision-relevant evidence about model behavior?
+
+I'm especially interested in turning practical security experience into rigorous experiments that help make increasingly capable AI systems safer and more controllable.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating with people working on AI safety research, AI Control, agent security, adversarial evaluations, and trustworthy AI systems.
+
+If you're working on these problems, I'd love to exchange ideas and learn from your work.
+
+**My goal:** Build AI systems that are not only capable, but also measurable, secure, and controllable.

@@ -112,7 +112,7 @@ An exploratory evaluation of how a tool-using language model responds to adversa
 
 ## 🎓 Education
 
-- **M.Tech in Artificial Intelligence and Machine Learning** — BITS Pilani, Work Integrated Learning Programme
+- **M.Tech in Artificial Intelligence and Machine Learning** — BITS Pilani
 - **Applied AI/ML for Autonomous Navigation** — TiHAN, IIT Hyderabad
 - **Applied Machine Learning and Data Science** — IIT Kanpur
 - **B.Tech in Computer Science and Engineering** — VIT University

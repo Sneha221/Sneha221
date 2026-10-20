@@ -18,7 +18,7 @@ I'm particularly interested in **AI Control, AI verification, adversarial evalua
 
 ## 🚀 Featured Project
 
-### [Evaluating Prompt-Injection Resilience in Tool-Using Agents](https://github.com/YOUR_USERNAME/inspect-agent-control-evaluation)
+### [Evaluating Prompt-Injection Resilience in Tool-Using Agents](https://github.com/Sneha221/inspect-agent-control-evaluation)
 
 *Python · Inspect AI · LLM Evaluation · AI Control*
 
